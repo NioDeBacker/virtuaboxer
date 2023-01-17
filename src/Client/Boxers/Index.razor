@@ -1,0 +1,31 @@
+﻿@page "/"
+@using VirtuaBoxer.Client.Boxers.Components
+@using VirtuaBoxer.Shared.Boxers
+<h3>Boxers</h3>
+@if(boxers is null)
+{
+    <p>Loading...</p>
+} else {
+    @foreach (var boxer in boxers)
+    {
+        <div class="column is-half">
+            <BoxerIndexListItem Boxer="boxer"/>
+        </div>
+    }
+}
+
+   
+
+
+@code {
+    [Inject] public IBoxerService BoxerService { get; set; }
+
+    private IList<BoxerDto.Index> boxers;
+
+    protected override async Task OnInitializedAsync() {
+        BoxerRequest.GetIndex request = new();
+        var response = await BoxerService.GetIndexAsync(request);
+        boxers = response.Boxers;
+    }
+
+}

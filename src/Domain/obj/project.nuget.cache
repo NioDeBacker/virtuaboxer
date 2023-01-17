@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "xuDfzZDG6wqRItp08K9WkYrV6MDQB1hmwHKHWxATbrDnoCOQPGkQagRte/AaljUluNae9wKmAk6b0/bSbL5+WQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\niode\\csharp\\virtuaboxer\\VirtuaBoxer\\src\\Domain\\Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\niode\\.nuget\\packages\\bogus\\34.0.2\\bogus.34.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

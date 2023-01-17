@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q46D/x9ItuSIgH9oUFGuHpf8paPQH/grvR0vYJOzEXW5Q2UjGaDnoqE4QDsJ9H6/WCYoCKgcBkrZXXv2x1XDxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\niode\\csharp\\virtuaboxer\\VirtuaBoxer\\src\\Shared\\VirtuaBoxer.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\niode\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

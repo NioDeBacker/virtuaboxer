@@ -1,0 +1,12 @@
+C:\Users\niode\csharp\virtuaboxer\VirtuaBoxer\src\Shared\bin\Debug\net6.0\VirtuaBoxer.Shared.deps.json
+C:\Users\niode\csharp\virtuaboxer\VirtuaBoxer\src\Shared\bin\Debug\net6.0\VirtuaBoxer.Shared.dll
+C:\Users\niode\csharp\virtuaboxer\VirtuaBoxer\src\Shared\bin\Debug\net6.0\VirtuaBoxer.Shared.pdb
+C:\Users\niode\csharp\virtuaboxer\VirtuaBoxer\src\Shared\obj\Debug\net6.0\VirtuaBoxer.Shared.csproj.AssemblyReference.cache
+C:\Users\niode\csharp\virtuaboxer\VirtuaBoxer\src\Shared\obj\Debug\net6.0\VirtuaBoxer.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\niode\csharp\virtuaboxer\VirtuaBoxer\src\Shared\obj\Debug\net6.0\VirtuaBoxer.Shared.AssemblyInfoInputs.cache
+C:\Users\niode\csharp\virtuaboxer\VirtuaBoxer\src\Shared\obj\Debug\net6.0\VirtuaBoxer.Shared.AssemblyInfo.cs
+C:\Users\niode\csharp\virtuaboxer\VirtuaBoxer\src\Shared\obj\Debug\net6.0\VirtuaBoxer.Shared.csproj.CoreCompileInputs.cache
+C:\Users\niode\csharp\virtuaboxer\VirtuaBoxer\src\Shared\obj\Debug\net6.0\VirtuaBoxer.Shared.dll
+C:\Users\niode\csharp\virtuaboxer\VirtuaBoxer\src\Shared\obj\Debug\net6.0\refint\VirtuaBoxer.Shared.dll
+C:\Users\niode\csharp\virtuaboxer\VirtuaBoxer\src\Shared\obj\Debug\net6.0\VirtuaBoxer.Shared.pdb
+C:\Users\niode\csharp\virtuaboxer\VirtuaBoxer\src\Shared\obj\Debug\net6.0\ref\VirtuaBoxer.Shared.dll
